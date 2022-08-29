@@ -1,0 +1,6 @@
+For fonts:
+see fonts with commands xlsfonts and fc-list
+use sudo mkfontdir to make fonts.dir
+also look at: sudo mkfontscale -o fonts.scale
+
+will need in order to build: sudo apt install libx11-dev
